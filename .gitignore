@@ -7,3 +7,7 @@
 node_modules/
 .next/
 next-env.d.ts
+
+# Local env files (web)
+modules/web/.env*
+!modules/web/.env.example
